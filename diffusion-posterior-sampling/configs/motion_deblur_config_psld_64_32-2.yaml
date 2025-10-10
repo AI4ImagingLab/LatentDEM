@@ -1,0 +1,18 @@
+conditioning:
+  method: ps
+  params:
+    scale: 0.3
+
+data:
+  name: ffhq
+  root: ./data/samples/
+
+measurement:
+  operator:
+    name: motion_blur
+    kernel_size: 32  ##actually in the https://arxiv.org/abs/2407.01027 , we use the blur kernel to be 64*64
+    intensity: 0.5
+
+  noise:
+    name: gaussian
+    sigma: 0.02
