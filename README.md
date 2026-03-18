@@ -1,4 +1,4 @@
-# LatentDEM: Blind Inversion using Latent Diffusion Priors
+# LatentDEM: Blind Inversion using Latent Diffusion Priors (IEEE TIP 2026)
 
 [![Paper](https://img.shields.io/badge/arXiv-2407.01027-b31b1b.svg)](https://arxiv.org/abs/2407.01027)
 
