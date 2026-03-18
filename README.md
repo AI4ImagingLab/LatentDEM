@@ -60,10 +60,10 @@ sh runforlatentDEM/inverse_mb_plant.sh
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@article{bai2024blind,
+@article{bai2026blind,
   title={Blind inversion using latent diffusion priors},
   author={Bai, Weimin and Chen, Siyi and Chen, Wenzheng and Sun, He},
-  journal={arXiv preprint arXiv:2407.01027},
-  year={2024}
+  journal={IEEE Transactions on Image Processing},
+  year={2026}
 }
 ```
